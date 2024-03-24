@@ -1,13 +1,13 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const MainMenuContainer = styled.nav`
-    ul {
-        list-style: none;
-        padding: 0;
+  ul {
+    list-style: none;
+    padding: 0;
 
-        li {
-            display: inline-block;
-            margin-right: 10px;
-        }
+    li {
+      display: inline-block;
+      margin-right: 10px;
     }
-`
+  }
+`;
